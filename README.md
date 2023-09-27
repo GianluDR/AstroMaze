@@ -1,5 +1,6 @@
 # AstroMaze
 **Astro Maze Project - Unity Game for Procedural Maze Solving**
+
 **Code:** assets/scripts/
 
 Astro Maze was a Unity-based project developed for my thesis study on procedural generation. The game involves maneuvering a cube through procedurally generated mazes of increasing complexity.

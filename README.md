@@ -18,3 +18,4 @@ Astro Maze was a Unity-based project developed for my thesis study on procedural
 Through this project, I gained extensive experience in Unity game development and procedural maze generation. It required a solid understanding of algorithms and data structures to ensure the creation of engaging and dynamic gameplay. The endeavor honed my problem-solving skills and provided insight into optimizing game performance while delivering an enjoyable gaming experience to the players.
 
 Further insight can be found in the pdf(italian language).
+The code is already builded, you can install the apk on any android device to test the game.
